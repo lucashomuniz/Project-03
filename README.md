@@ -25,7 +25,7 @@ The Shapiro-Wilk test is a normality test that checks whether a given sample fol
 5. Kolmogorov-Smirnov Test (non-parametric):
 The Kolmogorov-Smirnov test is another non-parametric test used to verify the normality or equality of distributions. It compares the empirical distribution of the data with a reference distribution. The null hypothesis (H0) for this test is that the two distributions are equal.
 
-# IMPORTANT NOTE:
+# NOTE
 
 These tests play a crucial role in statistical analysis and help us make evidence-based decisions. By understanding its fundamentals and application, we can gain valuable insights into the data and draw confident conclusions. In this work, all these tests will be carried out with data generated in the Automation Dashboard itself, allowing a practical understanding of its use and interpretation.
 
