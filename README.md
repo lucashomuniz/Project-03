@@ -35,7 +35,7 @@ The Kolmogorov-Smirnov test is another non-parametric test used to verify the no
 
 ![Screenshot 2023-06-14 at 15 15 37](https://github.com/lucashomuniz/Project-3/assets/123151332/f6766dc6-33e7-429e-8054-3fdb45a2a101)
 
-# ✅ NOTE
+# ✅ CONCLUSION
 
 These tests play a crucial role in statistical analysis and help us make evidence-based decisions. By understanding its fundamentals and application, we can gain valuable insights into the data and draw confident conclusions. In this work, all these tests will be carried out with data generated in the Automation Dashboard itself, allowing a practical understanding of its use and interpretation.
 
