@@ -6,7 +6,7 @@ To overcome this difficulty, this project proposes an innovative solution: the a
 
 Keywords: R Language, Data Analysis, Statistics, Shiny Library, Automation, Parametric and Non-Parametric Statistical Tests, Student`s t-Test, Wilcoxon, Shapiro-Wilk, Kolmogorov-Smirnov
 
-# PROCESS
+# ✅ PROCESS
 
 In this work, we will explore and interpret the use of some important statistical tests, both parametric and non-parametric. Five tests that play a key role in data analysis will be presented. We will give a brief description of each of them, their application and the associated null hypothesis (H0).
 
@@ -35,7 +35,7 @@ The Kolmogorov-Smirnov test is another non-parametric test used to verify the no
 
 ![Screenshot 2023-06-14 at 15 15 37](https://github.com/lucashomuniz/Project-3/assets/123151332/f6766dc6-33e7-429e-8054-3fdb45a2a101)
 
-# NOTE
+# ✅ NOTE
 
 These tests play a crucial role in statistical analysis and help us make evidence-based decisions. By understanding its fundamentals and application, we can gain valuable insights into the data and draw confident conclusions. In this work, all these tests will be carried out with data generated in the Automation Dashboard itself, allowing a practical understanding of its use and interpretation.
 
