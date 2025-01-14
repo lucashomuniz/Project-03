@@ -1,4 +1,4 @@
-# ✅ PROJECT-3
+# ✅ PROJECT-03
 
 The proposed project aims to provide an innovative approach to the statistical analysis of data, combining the understanding of parametric and non-parametric statistical tests with the appropriate choice of each test according to the analysis objectives. In addition, the project aims to facilitate and streamline the process of statistical analysis through the automation of these tests, using an interactive Dashboard. The use and interpretation of parametric and non-parametric statistical tests is essential to extract reliable and meaningful insights from the collected data. These tests allow us to make statistical inferences and make informed decisions about differences, associations or correlations present in the data. However, choosing the appropriate statistical test for a given analysis can be challenging, as it requires in-depth knowledge of the data characteristics and assumptions underlying each test.
 
