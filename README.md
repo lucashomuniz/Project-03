@@ -13,14 +13,19 @@ Visando estruturar esse ecossistema de dados em uma solução analítica confiá
 Durante o desenvolvimento deste projeto, a estrutura analítica foi planejada para contemplar uma série de indicadores cruciais ao acompanhamento do desempenho do call center. Entre os KPIs definidos, destacaram-se:
 
 > Nível de Atenção (NA): Proporção de interações recebidas em relação às interações efetivamente atendidas, com meta estabelecida em 98%.
+
 > Nível de Serviço (NS): Percentual de chamadas atendidas dentro de um tempo máximo de espera pré-determinado, visando alcançar uma meta de 90%.
+
 > Tempo Médio de Operação (TMO): Intervalo médio entre o início do contato com o cliente e a abertura do respectivo ticket, considerando como meta a marca de 90% das chamadas em até 300 segundos.
+
 > Tempo Médio de Espera (TME): Tempo médio que o cliente permanece aguardando na linha, cuja meta consiste em manter 90% das chamadas com espera de até 90 segundos.
+
 > Qualidade (CAL): Índice que avalia a qualidade das interações entre cliente e agente, buscando atingir 90% de feedbacks positivos.
 
 Para otimizar a interatividade e a experiência analítica, dois parâmetros principais foram configurados e vinculados a vários componentes do dashboard:
 
 > Parâmetro de Indicador (NA, NS, TMO, TME, CAL): Permite ao usuário selecionar qual métrica deseja visualizar com maior granularidade.
+
 > Parâmetro de Tempo (mês, semana, dia, hora): Oferece opções variadas de intervalo para aprofundar a análise, possibilitando desde visões mais amplas até recortes pontuais de datas e horários específicos.
 
 Com as metas definidas para cada KPI, foi então elaborado um dashboard estruturado em seções lógicas. Na parte superior, dispuseram-se filtros que viabilizam a seleção dos parâmetros mais relevantes (como períodos de tempo ou grupos de agentes), fornecendo maior flexibilidade na análise. Em seguida, os indicadores foram colocados em destaque, acompanhados de suas metas, permitindo a rápida identificação de possíveis desvios ou conquistas no desempenho.
