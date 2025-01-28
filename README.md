@@ -1,8 +1,8 @@
 # ✅ PROJECT-21
 
-This project was designed with the goal of creating a robust set of indicators that would allow monitoring and evaluating the performance of a call center, taking into account various perspectives of analysis. To this end, the scope included the integration of information from multiple sources, such as ServiceNow, Genesys, Jasper, Cirex, Sixtus, and Medalia. These databases contained records of customer calls, incidents related to internet and telephone services, as well as performance test results obtained through user experience management tools.
+In this project, the goal was to create a robust set of **indicators** to monitor and evaluate the performance of a **call center** across multiple analytical perspectives. The scope involved integrating data from diverse sources, including **ServiceNow**, **Genesys**, **Jasper**, **Cirex**, **Sixtus**, and **Medalia**. These sources provided records of customer calls, **incidents** related to internet and telephone services, and performance test results obtained through user experience management tools.
 
-In order to structure this data ecosystem into a reliable analytical solution, an ETL (Extract, Transform, and Load) pipeline was developed to ingest these sources into unified flows. The extraction process was designed to ensure periodic data collection and the standardization of key variables, while the transformation layer focused on a well-structured PowerQuery, aiming for data cleaning, deduplication, and integration. Furthermore, the use of the DAX (Data Analysis Expressions) language in Power BI enabled the calculation of advanced measures and metrics to describe the operation’s behavior. Finally, dynamic parameters and filters were configured to optimize the information consumption experience, allowing the end user to tailor the analytical scope to their specific needs. As a result, we ensured that the visualizations were agile, consistent, and capable of adding value to the decision-making process.
+A reliable **ETL pipeline** was developed to unify these data sources into consistent flows. The **extraction** process ensured periodic data collection and standardization of key variables, while the **transformation** layer utilized **Power Query** for data cleaning, deduplication, and integration. Advanced metrics and measures were calculated using **DAX** (Data Analysis Expressions) in **Power BI**, enabling deeper insights into operational behavior. Additionally, dynamic **parameters** and **filters** were implemented to enhance the user experience, allowing customization of the analytical scope to meet specific needs. The result was an agile, consistent, and value-driven analytical solution that supports effective decision-making through optimized and actionable **visualizations**.
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Platform, Business Analytics, BigQuery, Data Visualization, Data Analysis.
 
@@ -10,33 +10,27 @@ In order to structure this data ecosystem into a reliable analytical solution, a
 
 # ✅ PROCESS
 
-During the development of this project, the analytical framework was planned to include a series of key indicators critical for monitoring the call center’s performance. Among the defined KPIs, the following stood out:
+During the development of this project, a comprehensive analytical framework was established to define and monitor key performance indicators (**KPIs**) critical to assessing the call center's operations. The main **KPIs** included:
 
-> Attention Level (NA): The proportion of received interactions in relation to those effectively answered, with a target set at 98%.
+- **Attention Level (NA)**: Measures the proportion of received interactions to those effectively answered, with a target of 98%.
+- **Service Level (NS)**: Tracks the percentage of calls answered within a defined maximum wait time, aiming for a 90% target.
+- **Average Operation Time (TMO)**: Represents the average duration from customer contact initiation to ticket creation, with a goal of completing 90% of calls within 300 seconds.
+- **Average Waiting Time (TME)**: Calculates the average time customers remain on hold, targeting 90% of calls at or below 90 seconds of wait time.
+- **Quality (CAL)**: Evaluates the quality of customer-agent interactions, with a goal of achieving 90% positive feedback.
 
-> Service Level (NS): The percentage of calls answered within a predetermined maximum wait time, aiming to reach a 90% target.
+To enhance interactivity and user experience, two key **parameters** were configured:
 
-> Average Operation Time (TMO): The average interval between the start of customer contact and the opening of the respective ticket, with a goal of completing 90% of calls within 300 seconds.
+1. **Indicator Parameter** (NA, NS, TMO, TME, CAL): Enables users to select and explore specific metrics in greater detail.
+2. **Time Parameter** (month, week, day, hour): Provides flexible interval options for deeper analysis across different time scales.
 
-> Average Waiting Time (TME): The average time the customer remains on hold, with a target of keeping 90% of calls at or below 90 seconds of waiting.
+With the targets defined, the dashboard design followed a structured layout. Filters at the top allow users to refine the analysis by time periods, agent groups, or other parameters. The main **indicators** are prominently displayed alongside their respective targets, enabling quick identification of performance deviations or achievements.
 
-> Quality (CAL): An index evaluating the quality of interactions between the customer and the agent, seeking to achieve 90% positive feedback.
-
-To optimize interactivity and the analytical experience, two main parameters were set up and linked to various components of the dashboard:
-
-> Indicator Parameter (NA, NS, TMO, TME, CAL): Allows the user to select which metric they wish to view with greater detail.
-
-> Time Parameter (month, week, day, hour): Provides a range of interval options to deepen the analysis, enabling both broader overviews and more specific date- and time-based breakdowns.
-
-With the targets defined for each KPI, the dashboard was then organized into logical sections. At the top, filters were provided to allow selection of the most relevant parameters (such as time periods or agent groups), offering greater flexibility in analysis. Subsequently, the indicators were highlighted alongside their respective targets, enabling quick identification of any deviations or achievements in performance.
-
-For a consolidated view, a matrix compiles information at a general level, presenting a complete table that facilitates straightforward comparisons of different indicators across various time intervals. Following that, two complementary bar charts were developed: the first displays the selected indicator together with the respective target and time period; the second focuses on the volume of received versus answered calls, incorporating data related to the chosen indicator and making it easier to correlate call volume with performance. At the bottom, a “scroller” was included to highlight data segmented by each agent group, thereby providing a dynamic understanding of how each team impacts overall results.
+A consolidated **matrix** presents a comprehensive table of all indicators across various time intervals, facilitating easy comparisons. Two complementary **bar charts** were developed: one visualizes the selected indicator against its target over time, while the other highlights call volume (received versus answered) in correlation with performance. Finally, a dynamic **scroller** at the bottom displays segmented data for each agent group, offering insights into how individual teams contribute to overall results. This structured approach ensures an agile, interactive, and insightful dashboard, empowering users to monitor performance effectively and make data-driven decisions.
 
 # ✅ CONCLUSION
 
-The final deliverable consisted of a highly customized report specifically aimed at monitoring the call center’s activities, providing users with an agile understanding of the key indicators and established targets. Thanks to the developed ETL process, data sources started to be updated weekly in an automated manner, ensuring rapid refresh times and reliable results. This consolidated data architecture enabled the development of parametric analyses and the creation of custom indicators fully aligned with business objectives, highlighting continuous improvement opportunities. The project also required significant effort to optimize dashboard performance, reducing loading times and enhancing the user experience. Consequently, a recurring review and refinement process was established, reinforcing data governance practices and ensuring that the solution continued to consistently deliver value.
+The final deliverable was a **highly customized report** designed to monitor the call center’s activities, offering users an agile and detailed view of **key indicators** and **established targets**. Through the developed **ETL process**, data sources were automated for weekly updates, ensuring rapid refresh times and reliable results. This consolidated **data architecture** enabled **parametric analyses** and the creation of custom indicators fully aligned with business objectives, uncovering opportunities for continuous improvement. Significant efforts were also directed towards optimizing **dashboard performance**, reducing loading times, and enhancing the user experience. A recurring review and refinement process was established to reinforce **data governance** practices and ensure the solution consistently delivered value.
 
-Moreover, conducting training sessions and guiding teams in best practices for data visualization led to better interpretation of the indicators and the adoption of a more structured analytical culture. This synergy between reliable data, optimized processes, and well-trained users resulted in a direct impact on the improvement of the call center’s performance metrics, including a 25% increase in positive performance test evaluations. The unification of data, combined with more in-depth analyses, enabled quicker identification of operational bottlenecks and brought about significant efficiency gains, positioning the project as a successful initiative in the digital transformation of customer service processes.
+Additionally, **training sessions** and guidance on **data visualization best practices** improved indicator interpretation and fostered the adoption of a structured **analytical culture**. This synergy between **reliable data**, **optimized processes**, and **well-trained users** had a direct impact on improving the call center’s performance, including a 25% increase in positive performance test evaluations. The unification of data and deeper analyses enabled faster identification of operational bottlenecks, driving significant efficiency gains and positioning the project as a key success in the digital transformation of **customer service** processes.
 
 ![Screenshot 2025-01-17 at 11 23 08](https://github.com/user-attachments/assets/679bc0a0-8430-40dd-bf77-14a263b6c8ea)
-
