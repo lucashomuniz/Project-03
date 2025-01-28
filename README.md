@@ -49,6 +49,8 @@ can be caused by variables not considered, unforeseen external influences or lim
 possible causes and evaluate the inclusion of additional variables to improve the predictive capacity of the model. With this refined approach, it will be possible to optimize performance and make the model more 
 accurate and reliable in its predictions.
 
+![1](https://github.com/user-attachments/assets/ae0247d4-cf88-4a76-83a5-b4a819a7762c)
+
 ![image](https://github.com/lucashomuniz/Project-5/assets/123151332/c7a89b08-851e-4998-8285-26a7e9e585bb)
 
 For future projects, there are several ways to optimize the machine learning model. The first option is to adjust the parameters of the Boosted Decision Tree Regression algorithm in the Microsoft Azure Machine Learning, which requires a deep understanding of its functionalities. The second option is to create a custom script to optimize the algorithm based on mathematical and statistical techniques. The third option involves strategic improvements in the Data Munging process, making specific changes. Finally, the fourth option is to use the Tune Model Hyperparameters, which allows testing different combinations of hyperparameters for different algorithms, with hyperparameters being specific configurations of the algorithm that affect its performance. These options offer different approaches to optimizing the model and maximizing its accuracy and efficiency.
