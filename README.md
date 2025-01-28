@@ -49,7 +49,7 @@ can be caused by variables not considered, unforeseen external influences or lim
 possible causes and evaluate the inclusion of additional variables to improve the predictive capacity of the model. With this refined approach, it will be possible to optimize performance and make the model more 
 accurate and reliable in its predictions.
 
-![1](https://github.com/user-attachments/assets/ae0247d4-cf88-4a76-83a5-b4a819a7762c)
+![enhanced_image](https://github.com/user-attachments/assets/6f844e39-3f71-492e-9353-f43742199ee1)
 
 ![image](https://github.com/lucashomuniz/Project-5/assets/123151332/c7a89b08-851e-4998-8285-26a7e9e585bb)
 
