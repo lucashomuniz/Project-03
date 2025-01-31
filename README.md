@@ -1,4 +1,4 @@
-# ✅ PROJECT-05
+# ✅ PROJECT-03
 
 This project focuses on developing a predictive model to estimate **bicycle rental demand**. The goal is to create a **regression model** capable of predicting the number of bicycles rented in a given hour. The target variable, **CNT (Count)**, represents the total rentals. To optimize the model, **Feature Selection** was applied to identify the most relevant variables, enhancing **interpretability**, reducing **training time**, and improving **generalization** while minimizing the risk of **overfitting**.
 
