@@ -41,11 +41,3 @@ The **residual histogram** indicates that most differences between predicted and
 ![enhanced_image](https://github.com/user-attachments/assets/e87a979e-53b2-4e39-a84f-f62cff888cc2)
 
 Several strategies can be employed to **optimize** the **machine learning** model for future projects. One option is to fine-tune parameters of the **Boosted Decision Tree Regression** algorithm in **Microsoft Azure Machine Learning**, which necessitates a comprehensive understanding of its functionalities. Another approach involves crafting a **custom script** that leverages advanced mathematical and statistical techniques for algorithm optimization. A third method is to implement strategic modifications in the **Data Munging** process, focusing on targeted adjustments. Lastly, **Tune Model Hyperparameters** offers the capability to test multiple combinations of **hyperparameters** (key **algorithm** configurations impacting **performance**) across different algorithms. Each of these approaches presents unique benefits for improving the model’s **accuracy** and **efficiency**.
-
-API Key: c0qSxgSxknhU+wZZQS6yJ7gcGcOlBMkAihgf2DUiSwMC+h5GMXvsPYQioilMQV1IQB4uPHKfmaPz+AMC3AiOtg==
-
-# ✅ SOURCE
-
-The **Bike Rental UCI** dataset is used to build and train the model in this experiment. It contains real data from **Capital Bikeshare**, a bicycle rental service operating in **Washington DC**, USA. In total, there are **17,379 observations** and **17 variables**, capturing the number of bicycles rented at specific hours in **2011** and **2012**. Additionally, **weather conditions** (such as temperature, humidity, and wind speed) are included. Dates are also categorized as **holidays** and **days of the week** to further enrich the dataset for predictive modeling.
-
-Dataset: https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
