@@ -18,8 +18,8 @@ During the development of this project, a comprehensive analytical framework was
 
 To enhance interactivity and user experience, two key **parameters** were configured:
 
-1. **Indicator Parameter** (NA, NS, TMO, TME, CAL): Enables users to select and explore specific metrics in greater detail.
-2. **Time Parameter** (month, week, day, hour): Provides flexible interval options for deeper analysis across different time scales.
+- **Indicator Parameter** (NA, NS, TMO, TME, CAL): Enables users to select and explore specific metrics in greater detail.
+- **Time Parameter** (month, week, day, hour): Provides flexible interval options for deeper analysis across different time scales.
 
 With the targets defined, the dashboard design followed a structured layout. Filters at the top allow users to refine the analysis by time periods, agent groups, or other parameters. The main **indicators** are prominently displayed alongside their respective targets, enabling quick identification of performance deviations or achievements.
 
