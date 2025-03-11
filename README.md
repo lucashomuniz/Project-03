@@ -1,4 +1,4 @@
-# ✅ PROJECT-06
+<img width="756" alt="Screenshot 2025-03-11 at 14 54 41" src="https://github.com/user-attachments/assets/b524a5b1-20f7-4501-8e4b-87da06613163" /># ✅ PROJECT-06
 
 In this project, the goal was to create a robust set of **indicators** to monitor and evaluate the performance of a **call center** across multiple analytical perspectives. The scope involved integrating data from diverse sources, including **ServiceNow**, **Genesys**, **Jasper**, **Cirex**, **Sixtus**, and **Medalia**. These sources provided records of customer calls, **incidents** related to internet and telephone services, and performance test results obtained through user experience management tools.
 
@@ -34,3 +34,7 @@ The final deliverable was a **highly customized report** designed to monitor the
 Additionally, **training sessions** and guidance on **data visualization best practices** improved indicator interpretation and fostered the adoption of a structured **analytical culture**. This synergy between **reliable data**, **optimized processes**, and **well-trained users** had a direct impact on improving the call center’s performance, including a 25% increase in positive performance test evaluations. The unification of data and deeper analyses enabled faster identification of operational bottlenecks, driving significant efficiency gains and positioning the project as a key success in the digital transformation of **customer service** processes.
 
 ![Screenshot 2025-01-17 at 11 23 08](https://github.com/user-attachments/assets/679bc0a0-8430-40dd-bf77-14a263b6c8ea)
+
+![Screen Recording 2025-03-11 at 14 52 08](https://github.com/user-attachments/assets/b996ee69-db11-4b76-9dca-19d08af824d9)
+
+
