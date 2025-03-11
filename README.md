@@ -6,8 +6,6 @@ A reliable **ETL pipeline** was developed to unify these data sources into consi
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Platform, Business Analytics, BigQuery, Data Visualization, Data Analysis.
 
-**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=bed58191-cd50-4309-b20e-5192b6a24559&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
-
 # ✅ PROCESS
 
 During the development of this project, a comprehensive analytical framework was established to define and monitor key performance indicators (**KPIs**) critical to assessing the call center's operations. The main **KPIs** included:
@@ -27,10 +25,13 @@ With the targets defined, the dashboard design followed a structured layout. Fil
 
 A consolidated **matrix** presents a comprehensive table of all indicators across various time intervals, facilitating easy comparisons. Two complementary **bar charts** were developed: one visualizes the selected indicator against its target over time, while the other highlights call volume (received versus answered) in correlation with performance. Finally, a dynamic **scroller** at the bottom displays segmented data for each agent group, offering insights into how individual teams contribute to overall results. This structured approach ensures an agile, interactive, and insightful dashboard, empowering users to monitor performance effectively and make data-driven decisions.
 
+![Screen-Recording-2025-03-11-at-14 57 43](https://github.com/user-attachments/assets/0fd6fe68-c06a-4ab3-89f6-6507ded3d175)
+
 # ✅ CONCLUSION
 
 The final deliverable was a **highly customized report** designed to monitor the call center’s activities, offering users an agile and detailed view of **key indicators** and **established targets**. Through the developed **ETL process**, data sources were automated for weekly updates, ensuring rapid refresh times and reliable results. This consolidated **data architecture** enabled **parametric analyses** and the creation of custom indicators fully aligned with business objectives, uncovering opportunities for continuous improvement. Significant efforts were also directed towards optimizing **dashboard performance**, reducing loading times, and enhancing the user experience. A recurring review and refinement process was established to reinforce **data governance** practices and ensure the solution consistently delivered value.
 
 Additionally, **training sessions** and guidance on **data visualization best practices** improved indicator interpretation and fostered the adoption of a structured **analytical culture**. This synergy between **reliable data**, **optimized processes**, and **well-trained users** had a direct impact on improving the call center’s performance, including a 25% increase in positive performance test evaluations. The unification of data and deeper analyses enabled faster identification of operational bottlenecks, driving significant efficiency gains and positioning the project as a key success in the digital transformation of **customer service** processes.
 
-![Screen-Recording-2025-03-11-at-14 57 43](https://github.com/user-attachments/assets/0fd6fe68-c06a-4ab3-89f6-6507ded3d175)
+**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=bed58191-cd50-4309-b20e-5192b6a24559&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
+
