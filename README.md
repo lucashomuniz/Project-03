@@ -35,6 +35,7 @@ Additionally, **training sessions** and guidance on **data visualization best pr
 
 ![Screenshot 2025-01-17 at 11 23 08](https://github.com/user-attachments/assets/679bc0a0-8430-40dd-bf77-14a263b6c8ea)
 
-![Screen Recording 2025-03-11 at 14 52 08](https://github.com/user-attachments/assets/b996ee69-db11-4b76-9dca-19d08af824d9)
+![Screen-Recording-2025-03-11-at-14 52 08](https://github.com/user-attachments/assets/b484739b-3b13-4faf-8072-25fe955c046c)
+
 
 
