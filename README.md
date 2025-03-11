@@ -33,9 +33,4 @@ The final deliverable was a **highly customized report** designed to monitor the
 
 Additionally, **training sessions** and guidance on **data visualization best practices** improved indicator interpretation and fostered the adoption of a structured **analytical culture**. This synergy between **reliable data**, **optimized processes**, and **well-trained users** had a direct impact on improving the call center’s performance, including a 25% increase in positive performance test evaluations. The unification of data and deeper analyses enabled faster identification of operational bottlenecks, driving significant efficiency gains and positioning the project as a key success in the digital transformation of **customer service** processes.
 
-![Screenshot 2025-01-17 at 11 23 08](https://github.com/user-attachments/assets/679bc0a0-8430-40dd-bf77-14a263b6c8ea)
-
-![Screen-Recording-2025-03-11-at-14 52 08](https://github.com/user-attachments/assets/b484739b-3b13-4faf-8072-25fe955c046c)
-
-
-
+![Screen-Recording-2025-03-11-at-14 57 43](https://github.com/user-attachments/assets/0fd6fe68-c06a-4ab3-89f6-6507ded3d175)
