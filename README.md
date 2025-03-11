@@ -1,4 +1,4 @@
-<img width="756" alt="Screenshot 2025-03-11 at 14 54 41" src="https://github.com/user-attachments/assets/b524a5b1-20f7-4501-8e4b-87da06613163" /># ✅ PROJECT-06
+# ✅ PROJECT-06
 
 In this project, the goal was to create a robust set of **indicators** to monitor and evaluate the performance of a **call center** across multiple analytical perspectives. The scope involved integrating data from diverse sources, including **ServiceNow**, **Genesys**, **Jasper**, **Cirex**, **Sixtus**, and **Medalia**. These sources provided records of customer calls, **incidents** related to internet and telephone services, and performance test results obtained through user experience management tools.
 
