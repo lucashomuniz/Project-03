@@ -6,8 +6,6 @@ A reliable **ETL pipeline** was developed to unify these data sources into consi
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Platform, Business Analytics, BigQuery, Data Visualization, Data Analysis.
 
-**Link**: https://app.powerbi.com/links/39CDjUD0Zi?ctid=d69a7783-e937-4232-ba85-2098408382c8&pbi_source=linkShare
-
 # ✅ PROCESS
 
 During the development of this project, a comprehensive analytical framework was established to define and monitor key performance indicators (**KPIs**) critical to assessing the call center's operations. The main **KPIs** included:
