@@ -6,7 +6,7 @@ A reliable **ETL pipeline** was developed to unify these data sources into consi
 
 **Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Platform, Business Analytics, BigQuery, Data Visualization, Data Analysis.
 
-https://app.powerbi.com/reportEmbed?reportId=bed58191-cd50-4309-b20e-5192b6a24559&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
+**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=bed58191-cd50-4309-b20e-5192b6a24559&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
 
 # ✅ PROCESS
 
