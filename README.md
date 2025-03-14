@@ -25,7 +25,7 @@ With the targets defined, the dashboard design followed a structured layout. Fil
 
 A consolidated **matrix** presents a comprehensive table of all indicators across various time intervals, facilitating easy comparisons. Two complementary **bar charts** were developed: one visualizes the selected indicator against its target over time, while the other highlights call volume (received versus answered) in correlation with performance. Finally, a dynamic **scroller** at the bottom displays segmented data for each agent group, offering insights into how individual teams contribute to overall results. This structured approach ensures an agile, interactive, and insightful dashboard, empowering users to monitor performance effectively and make data-driven decisions.
 
-![Screen-Recording-2025-03-11-at-14 57 43](https://github.com/user-attachments/assets/0fd6fe68-c06a-4ab3-89f6-6507ded3d175)
+![Screen Recording 2025-03-14 at 12 51 07](https://github.com/user-attachments/assets/4cff48ac-3100-4c5b-b8fc-a71de3c33041)
 
 # ✅ CONCLUSION
 
