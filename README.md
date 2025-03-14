@@ -33,5 +33,5 @@ The final deliverable was a **highly customized report** designed to monitor the
 
 Additionally, **training sessions** and guidance on **data visualization best practices** improved indicator interpretation and fostered the adoption of a structured **analytical culture**. This synergy between **reliable data**, **optimized processes**, and **well-trained users** had a direct impact on improving the call center’s performance, including a 25% increase in positive performance test evaluations. The unification of data and deeper analyses enabled faster identification of operational bottlenecks, driving significant efficiency gains and positioning the project as a key success in the digital transformation of **customer service** processes.
 
-**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=bed58191-cd50-4309-b20e-5192b6a24559&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
+**Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiZTAxNGI4ZGMtNTYwMC00YTU3LTgwYzktZWM4MWE4OTlhZjViIiwidCI6ImQ2OWE3NzgzLWU5MzctNDIzMi1iYTg1LTIwOTg0MDgzODJjOCJ9
 
