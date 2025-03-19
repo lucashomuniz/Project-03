@@ -20,7 +20,7 @@ During the development of this project, a comprehensive analytical framework was
 
 > **Quality (CAL)**: Evaluates the quality of customer-agent interactions, with a goal of achieving 90% positive feedback.
 
-To enhance interactivity and user experience, two key **parameters** were configured:
+To enhance interactivity and user experience, two key parameters were configured, allowing users to dynamically explore data and tailor their analysis based on specific needs. These parameters were designed to improve flexibility, customization, and decision-making efficiency, ensuring that stakeholders can extract relevant insights with ease:
 
 > **Indicator Parameter** (NA, NS, TMO, TME, CAL): Enables users to select and explore specific metrics in greater detail.
 
