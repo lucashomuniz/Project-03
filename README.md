@@ -11,14 +11,19 @@ A reliable **ETL pipeline** was developed to unify these data sources into consi
 During the development of this project, a comprehensive analytical framework was established to define and monitor key performance indicators (**KPIs**) critical to assessing the call center's operations. The main **KPIs** included:
 
 **Attention Level (NA)**: Measures the proportion of received interactions to those effectively answered, with a target of 98%.
+
 **Service Level (NS)**: Tracks the percentage of calls answered within a defined maximum wait time, aiming for a 90% target.
+
 **Average Operation Time (TMO)**: Represents the average duration from customer contact initiation to ticket creation, with a goal of completing 90% of calls within 300 seconds.
+
 **Average Waiting Time (TME)**: Calculates the average time customers remain on hold, targeting 90% of calls at or below 90 seconds of wait time.
+
 **Quality (CAL)**: Evaluates the quality of customer-agent interactions, with a goal of achieving 90% positive feedback.
 
 To enhance interactivity and user experience, two key **parameters** were configured:
 
 **Indicator Parameter** (NA, NS, TMO, TME, CAL): Enables users to select and explore specific metrics in greater detail.
+
 **Time Parameter** (month, week, day, hour): Provides flexible interval options for deeper analysis across different time scales.
 
 With the targets defined, the dashboard design followed a structured layout. Filters at the top allow users to refine the analysis by time periods, agent groups, or other parameters. The main **indicators** are prominently displayed alongside their respective targets, enabling quick identification of performance deviations or achievements.
